@@ -4,15 +4,14 @@
 
 # Requisitos
 
-Se requiere tener instalado Python3 y pip 
+Se requiere tener instalado Python3 y pip
 Se requiere instalar pytest
-     
+
     pip install pytest
 
 ## Cómo correr
+
     pytest
-
-
 
 ## Notas
 
